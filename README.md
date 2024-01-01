@@ -21,7 +21,7 @@
 
 ###
 
-<h6 align="center">I'm ... from ....<br><br>- 🔭 I’m working as  frontend developer <br>- 📚 I'm currently  wokring ...<br>- ⚡ how i can help you.</h6>
+<h6 align="center">I'm ... from ....<br><br>- 🔭 I’m working as  MERN_STACK developer <br>- 📚 I'm currently  wokring ...<br>- ⚡ how i can help you.</h6>
 
 ###
 
